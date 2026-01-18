@@ -275,24 +275,8 @@ The ML pipeline structure is still implemented correctly.
 ## Project Structure
 
 
-
-quant_trading_assignment/
-│
-├── data/
-│ ├── raw/
-│ ├── merged/
-│
-├── notebooks/
-│ ├── 1_data_preparation.ipynb
-│ ├── 2_regime_detection.ipynb
-│ ├── 3_strategy_backtest.ipynb
-│ ├── 4_ml_filter.ipynb
-│
-├── results/
-│ └── baseline_strategy_results.csv
-│
-├── requirements.txt
-├── README.md
+The project is organized into folders for data, notebooks, results, and documentation
+to keep the workflow clear and easy to understand.
 
 
 ---
