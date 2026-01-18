@@ -1,5 +1,4 @@
-# Quantitative Trading Strategy Project (Beginner Level)
-
+# Quantitative Trading Strategy Project 
 ## Introduction
 
 This project is my attempt to understand and build a basic quantitative trading system.
